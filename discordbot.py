@@ -83,4 +83,5 @@ def eicolor(i):
         return(0xffcdde)
     elif i == '7':
         return(0xffff6c)
+    
 client.run(token)
