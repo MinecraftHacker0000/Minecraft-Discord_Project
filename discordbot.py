@@ -2,6 +2,7 @@ import requests
 import discord
 import xml.etree.ElementTree as ET
 
+
 client = discord.Client()
 @client.event
 async def on_message(message):
