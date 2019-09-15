@@ -1,4 +1,3 @@
-import requests
 import discord
 import xml.etree.ElementTree as ET
 
